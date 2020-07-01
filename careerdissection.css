@@ -1,0 +1,25 @@
+h1{
+  background-color: #21D1D1;
+  margin: auto;
+}
+h2{
+  background-color: #21D1D1;
+  margin: auto;
+}
+.jumbotron {
+    margin-bottom:0;
+  }
+
+
+.container{
+      margin-bottom:2;
+  }
+.episodes{
+
+}
+
+.contact{
+  position: absolute;
+top: 10px;
+right: 10px;
+}
