@@ -14,7 +14,10 @@ h2{
 
 
 .container{
-      margin-bottom:2;
+      margin-top:6;
+      margin-bottom:100;
+      border-top:8px solid black;
+
   }
 .episodes{
 
@@ -31,3 +34,4 @@ img {
   width: 110px;
   height: 110px;
 }
+
